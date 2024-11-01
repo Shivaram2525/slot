@@ -1,5 +1,7 @@
 # Ex03 Time Table
-## Date:
+## Date: 1/11/2024
+## Name: SHIVARAM M.
+## Reg.No.:212223040195
 
 ## AIM
 To write a html webpage page to display your slot timetable.
